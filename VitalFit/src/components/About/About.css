@@ -1,0 +1,27 @@
+.about {
+    background-image: url("../../assets/about.png");
+    background-size: cover;
+    height: 90vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-end;
+}
+
+.about-box {
+    background-color: var(--dark-white);
+    width: 300px;
+    padding: 63px 37px;
+    position: relative;
+    right: 10%;
+    text-align:justify ;
+}
+
+.about-title, .about-text{
+    color: var(--dark-gray);
+}
+
+.about-title {
+    padding-bottom: 30px;
+}
+
