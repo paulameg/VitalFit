@@ -1,0 +1,33 @@
+.home {
+    background-image:url("../../assets/home.png");
+    background-size: cover;
+    background-attachment: scroll;
+    height: 90vh;
+    display: flex;
+    justify-content: center;
+}
+
+.cta {
+    display: flex;
+    flex-direction: column;
+    padding-left: 36px;
+    justify-content: center;
+    align-items:center;
+    position: relative;
+    right: 27%;   
+}
+
+.title, .text {
+    color: var(--white);
+}
+
+.btn {
+    margin-top: 40px;
+    background-color: var(--light-green);
+    color: var(--black);
+    border-radius: 7px;
+    width: 243px;
+    height: 58px;
+    font-weight: 700;
+    font-size: 16px;
+}
