@@ -1,0 +1,51 @@
+.plans {
+    background-image: url("../../assets/plans.png");
+    background-size: cover;
+    height: 90vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.plans-cards {
+    padding-top: 3%;
+    display: flex;
+    gap: 40px;
+    align-items: end;
+}
+
+.plan {
+    color: var(--dark-green);
+}
+
+.price, .month-text, .benefits {
+    color: var(--dark-gray);
+} 
+
+
+.green-card, .pro-gold-card, .gold-card {
+   background-color: var(--dark-white); 
+   
+}
+
+.green-card, .pro-gold-card {
+    padding: 25px 37px;
+    width: 15vw;
+    height: 50vh;
+}
+
+.gold-card {
+    padding: 24px;
+    width: 20vw;
+    height: 60vh;
+}
+
+.card-title {
+    text-align: center;
+    padding-bottom: 40px;
+}
+
+.benefits {
+    padding: 15px;
+}
