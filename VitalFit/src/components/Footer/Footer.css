@@ -1,0 +1,10 @@
+footer {
+    height: 10.625rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-left: 10rem;
+    padding-right: 10rem;
+    background-color: var(--dark-white);
+    color: var(--black);
+}
