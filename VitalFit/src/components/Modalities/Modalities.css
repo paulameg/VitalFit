@@ -1,0 +1,45 @@
+.modalities {
+    background-image: url("../../assets/modalities.png");
+    background-size: cover;
+    height: 90vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.mod-cards {
+    padding-top: 5%;
+    display: flex;
+    gap: 36px;
+}
+
+.card h4 {
+    font-weight: 400;
+    padding-bottom: 27px;
+}
+
+.card {
+    width: 25vw;
+    height: 62vh;
+    color: var(--dark-white);
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+}
+
+.musc-card {
+    background: linear-gradient(180deg, rgba(0, 0, 0, 0.20) 0%, #000 85.62%), url("../../assets/modalities/musc.jpg"), lightgray 0px -29.283px / 100% 113.741% no-repeat ;
+    background-size:cover;
+}
+
+.muaythai-card {
+    background: linear-gradient(180deg, rgba(0, 0, 0, 0.20) 0%, #000 85.62%), url("../../assets/modalities/muaythai.jpg"), lightgray 0px -29.283px / 100% 113.741% no-repeat;
+    background-size:cover;
+}
+
+.fitdance-card {
+    background: linear-gradient(180deg, rgba(0, 0, 0, 0.20) 0%, #000 85.62%), url("../../assets/modalities/fitDance.jpg"), lightgray 0px -29.283px / 100% 113.741% no-repeat;
+    background-size:cover;
+    background-position-x: center;
+}
