@@ -7,7 +7,7 @@ import twitter from '../../assets/Twitter.svg'
 
 const Contact = () => {
   return (
-    <div className='contact'>
+    <div id='contacts' className='contact'>
 
       <h1 className='title'>Contato</h1>
 

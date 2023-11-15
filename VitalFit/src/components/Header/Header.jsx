@@ -6,12 +6,12 @@ const Header = () => {
    <header>
     <img className='logo-img' src={Logo} alt="Logo VitalFit" />
     <ul>
-        <li><a href="">Home</a></li>
-        <li><a href="">Sobre</a></li>
-        <li><a href="">Modalidades</a></li>
-        <li><a href="">Unidades</a></li>
-        <li><a href="">Planos</a></li>
-        <li><a href="">Contatos</a></li> 
+        <li><a href="#home">Home</a></li>
+        <li><a href="#about">Sobre</a></li>
+        <li><a href="#modalities">Modalidades</a></li>
+        <li><a href="#unit">Unidades</a></li>
+        <li><a href="#plans">Planos</a></li>
+        <li><a href="#contacts">Contatos</a></li> 
     </ul>
    </header>
   )

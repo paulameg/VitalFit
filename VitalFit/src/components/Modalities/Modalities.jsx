@@ -2,7 +2,7 @@ import './Modalities.css'
 
 const Modalities = () => {
   return (
-    <div className='modalities'>
+    <div id='modalities' className='modalities'>
         <h1 className='title'>Nossas modalidades</h1>
         <div className='mod-cards'>
             <div className='card musc-card'>
