@@ -1,0 +1,41 @@
+.contact {
+    background-size: cover;
+    background-repeat: no-repeat;
+    background: url("../../assets/contact.png"), linear-gradient(180deg, rgba(1, 1, 1, 0.95) 100%, rgba(0, 0, 0, 0.39) 100%);
+    background-size: cover;
+    height: 65vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.title {
+    padding-top: 5.81rem;
+    text-align: center;
+}
+
+.unit-content {
+    padding-top: 5rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding-bottom: 5.81rem;
+}
+
+.unit-2 {
+    padding-top: 3.13rem;
+}
+
+.unit-name, .unit-address, .unit-phone {
+    color: var(--dark-white)
+}
+
+.socialMd-icons img {
+    width: 4.375rem;
+    height: 4.375rem;
+}
+
+.socialMd-icons {
+    display: flex;
+    gap: 2.5rem;
+}

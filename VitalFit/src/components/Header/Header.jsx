@@ -4,7 +4,7 @@ import Logo from '../../assets/Logo.png'
 const Header = () => {
   return (
    <header>
-    <img src={Logo} alt="Logo VitalFit" />
+    <img className='logo-img' src={Logo} alt="Logo VitalFit" />
     <ul>
         <li><a href="">Home</a></li>
         <li><a href="">Sobre</a></li>
