@@ -10,6 +10,7 @@
 
 .plans-cards {
     padding-top: 3%;
+    padding-bottom: 5%;
     display: flex;
     gap: 40px;
     align-items: end;

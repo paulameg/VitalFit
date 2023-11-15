@@ -10,6 +10,7 @@
 
 .mod-cards {
     padding-top: 5%;
+    padding-bottom: 10%;
     display: flex;
     gap: 36px;
 }
