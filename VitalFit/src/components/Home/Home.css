@@ -1,23 +1,28 @@
 .home {
     background-image:url("../../assets/home.png");
     background-size: cover;
-    background-attachment: scroll;
     height: 90vh;
+    background-attachment: scroll;
     display: flex;
-    
 }
 
 .cta {
     display: flex;
     flex-direction: column;
-    padding-left: 36px;
     justify-content: center;
     align-items:center;
-    padding-left: 5rem;
+    padding-right: 50px;
+    padding-left: 50px;
 }
 
 .title, .text {
     color: var(--white);
+    text-align: center;
+    padding-bottom: 3rem;
+}
+
+.title {
+    padding-bottom: 15px;
 }
 
 .btn {
@@ -29,4 +34,11 @@
     height: 58px;
     font-weight: 700;
     font-size: 16px;
+}
+
+@media screen and (min-width: 40rem) {
+    .cta {
+        padding-left: 36px;
+        padding-left: 5rem;
+    }
 }
