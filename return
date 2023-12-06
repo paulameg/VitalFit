@@ -1,0 +1,116 @@
+[33mcommit 14ca11e38f83e743fcae1cceafe26393d501acc2[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Merge: 7d9cf84 e6210b5
+Author: Paula Takahashi <60903969+paulameg@users.noreply.github.com>
+Date:   Wed Dec 6 20:48:08 2023 -0300
+
+    Merge pull request #1 from paulameg/mobile-version
+    
+    Home mobile
+
+[33mcommit e6210b5e2728bd54caefb6b26fed485b5f1cbaf4[m[33m ([m[1;31morigin/mobile-version[m[33m, [m[1;32mmobile-version[m[33m)[m
+Author: paulameg <paulatakahashi4@gmail.com>
+Date:   Wed Dec 6 20:42:42 2023 -0300
+
+    Home mobile
+
+[33mcommit 7d9cf844692932f4da17ee022ea58cc020bb5222[m
+Author: paulameg <paulatakahashi4@gmail.com>
+Date:   Sat Nov 18 15:55:19 2023 -0300
+
+    Scrool padding top
+
+[33mcommit 5c05859b1ad803a3f4dac870aa22c55b8ceb5e66[m
+Author: paulameg <paulatakahashi4@gmail.com>
+Date:   Tue Nov 14 23:30:58 2023 -0300
+
+    About the project
+
+[33mcommit 6b0bc0c1b5553d9aadcf1bae3d3f8b6ede69dee4[m
+Author: paulameg <paulatakahashi4@gmail.com>
+Date:   Tue Nov 14 23:28:22 2023 -0300
+
+    About the project
+
+[33mcommit c5ea94acecc97aefde4342ce0041a7c135178017[m
+Author: paulameg <paulatakahashi4@gmail.com>
+Date:   Tue Nov 14 23:07:48 2023 -0300
+
+    Logo link to home
+
+[33mcommit 9b7cd54c08b6c44ac57f750d2081d42f7592c1f1[m
+Author: paulameg <paulatakahashi4@gmail.com>
+Date:   Tue Nov 14 23:03:40 2023 -0300
+
+    Nav link to section
+
+[33mcommit f64377a441ec5e714b26879bcc5ac41c25fd2640[m
+Author: paulameg <paulatakahashi4@gmail.com>
+Date:   Tue Nov 14 22:35:25 2023 -0300
+
+    Position bugs fixed
+
+[33mcommit a8e2a5f16440dbfdf07894bd6b354f8eaaf635ae[m
+Author: paulameg <paulatakahashi4@gmail.com>
+Date:   Tue Nov 14 22:20:01 2023 -0300
+
+    Contact section
+
+[33mcommit 0066f6ec10b50c3ad3164b5e865a5b8a17873ae2[m
+Author: paulameg <paulatakahashi4@gmail.com>
+Date:   Fri Nov 10 19:02:33 2023 -0300
+
+    Footer
+
+[33mcommit b4e8e71bfda8458d717c7d771161c43b9809ca02[m
+Author: paulameg <paulatakahashi4@gmail.com>
+Date:   Fri Nov 10 18:54:47 2023 -0300
+
+    Plans section
+
+[33mcommit 1791c4363aa7244828f3495c6d5f7cc86c6b47a8[m
+Author: paulameg <paulatakahashi4@gmail.com>
+Date:   Fri Nov 10 16:20:43 2023 -0300
+
+    Units section
+
+[33mcommit b09006e848499bc1c6c8379a91553ff6918a0d65[m
+Author: paulameg <paulatakahashi4@gmail.com>
+Date:   Fri Nov 10 15:37:53 2023 -0300
+
+    Modalities section
+
+[33mcommit 958baed6db23cc5fb6ba8487ff338b63f3102373[m
+Author: paulameg <paulatakahashi4@gmail.com>
+Date:   Fri Nov 10 12:16:02 2023 -0300
+
+    About section
+
+[33mcommit 5c29e2ebbdfa7ae367397f8457e3de169538a4da[m
+Author: paulameg <paulatakahashi4@gmail.com>
+Date:   Thu Nov 9 22:22:02 2023 -0300
+
+    Home page
+
+[33mcommit 2c828073117767afc168229ba0275838c275c68c[m
+Author: paulameg <paulatakahashi4@gmail.com>
+Date:   Thu Nov 9 16:04:52 2023 -0300
+
+    Color configuration
+
+[33mcommit 6d9f5aab755960e9bf3acfb3f6bc731222f43569[m
+Author: paulameg <paulatakahashi4@gmail.com>
+Date:   Wed Nov 8 22:31:58 2023 -0300
+
+    Color as variables
+
+[33mcommit d3e5ee3cff5e91d6ed117988fc431842b1f4901e[m
+Author: paulameg <paulatakahashi4@gmail.com>
+Date:   Wed Nov 8 22:21:42 2023 -0300
+
+    fonts configuration
+
+[33mcommit 5331061fe5ac94d22d24ff4264bc21e706e26251[m
+Author: paulameg <paulatakahashi4@gmail.com>
+Date:   Tue Nov 7 22:52:34 2023 -0300
+
+    first commit
