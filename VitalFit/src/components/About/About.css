@@ -5,7 +5,7 @@
     display: flex;
     flex-direction: column;
     justify-content: center;
-    align-items: flex-end;
+    align-items: center;
 }
 
 .about-box {
@@ -13,7 +13,6 @@
     width: 300px;
     padding: 63px 37px;
     text-align:justify ;
-    margin-right: 10rem;
 }
 
 .about-title, .about-text{
@@ -24,3 +23,13 @@
     padding-bottom: 30px;
 }
 
+
+@media screen and (min-width: 40rem) {
+    .about {
+        align-items: flex-end;
+    }
+    
+    .about-box {
+        margin-right: 10rem;
+    }
+}
